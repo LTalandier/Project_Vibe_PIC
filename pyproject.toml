@@ -1,0 +1,16 @@
+[project]
+name = "vibepic"
+version = "0.1.0"
+description = "Conversational AI for PIC design"
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT"
+
+authors = [{name = "Your Name"}]
+
+[project.urls]
+Repository = "https://github.com/yourusername/vibepic"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta" 

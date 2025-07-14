@@ -1,0 +1,7 @@
+gdsfactory
+rich 
+huggingface_hub 
+ollama
+matplotlib
+ 
+ 
