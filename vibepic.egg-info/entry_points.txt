@@ -1,2 +1,0 @@
-[console_scripts]
-vibepic = vibepic.cli:main
